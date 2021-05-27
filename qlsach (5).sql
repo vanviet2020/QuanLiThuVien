@@ -441,6 +441,7 @@ INSERT INTO `taikhoan` (`User`, `Password`, `PhanQuyen`, `TenND`, `SDT`, `CMND`)
 ('thanhhung', '123', 2, 'Bùi Thành Hưng', '0314250179', '21896047581'),
 ('thuytrang', '123', 2, 'Ngô Thị Thùy Trang', '0356148210', '2982145003'),
 ('tronghieu', '123', 2, 'Nguyễn Trọng Hiếu', '0981452036', '271007630045');
+('trongbe', '123', 2, 'Nguyễn Trọng Hiếu', '0981452034', '271007630043');
 
 --
 -- Indexes for dumped tables
